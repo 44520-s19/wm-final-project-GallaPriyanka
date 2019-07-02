@@ -1,3 +1,5 @@
+# A Comparison of Celebrity Tweets to the Tweets of Their Fans
+
 ## Question I want to ask:
 Do the tweets of Pawan Kalyan, one of the most influential people in Andhra Pradesh, India and his fans resemble each other and whether they share similar styles in their tweets?
 ## Platform I will be mining:
